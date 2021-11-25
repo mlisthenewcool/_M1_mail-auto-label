@@ -1,0 +1,7 @@
+chardet
+pandas
+numpy
+sklearn
+bs4
+google-api-python-client
+oauth2client
